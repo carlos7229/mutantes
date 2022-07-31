@@ -42,6 +42,9 @@ Se debe tener en cuenta:
 Para ejecutar el proyecto es necesario contar con una instancia de MySQL en caso de querer ejecutarlo localmente, los datos de conexion deben ir consignados en el archivo  _[aplication.properties](./src/main/resources/application.properties)_,
 
 Clonar este repositorio: 
+```
+  git clone https://github.com/carlos7229/mutantes.git
+```
 
 Una vez levantada la aplicacion es permitido realizar peticiones a la API y el puerto por defecto de la API es _:8080_.
 
