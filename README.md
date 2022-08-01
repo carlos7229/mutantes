@@ -110,7 +110,7 @@ Request:
 - GET http://localhost:8080/stats
 
 ```
-  Codigo: 200 OK Forbidden
+  Codigo: 200 OK
   resultado: "[mutants: 26, humans: 17, ratio: 0.60]"
 ```
 
